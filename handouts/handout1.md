@@ -20,11 +20,17 @@ df1 <- as.data.frame(df1) %>%
 names(df1) <- c("id", "colon.cancer") 
 ```
 
-a. Using the population cancer data ``df1``, calculate the population mean and population variance for colon cancer. 
-b. Draw a random sample (N=100) from the population, and calculate the sample mean.  
-c. Increase the sample size gradually (N=200,N=300, etc.) and re-calculate the sample mean.
-d. Draw 10 samples from the population simultaneously and calculate the mean from each sample. 
-e. Calculate the mean and the variance of the sample means. 
-f. Replicate d and e with 1000 samples. 
-g. Draw a histogram of the sample means. 
+a. Using the population cancer data ``df1``, calculate the population mean and population variance for colon cancer.   
+
+b. Draw a random sample (N=100) from the population, and calculate the sample mean.   
+
+c. Increase the sample size gradually (N=200,N=300, etc.) and re-calculate the sample mean.  
+
+d. Draw 10 samples from the population simultaneously and calculate the mean from each sample.   
+
+e. Calculate the mean and the variance of the sample means.    
+
+f. Replicate d and e with 1000 samples.    
+
+g. Draw a histogram of the sample means.    
 
