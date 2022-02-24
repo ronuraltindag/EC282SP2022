@@ -41,21 +41,15 @@ cor(anscombe$x4,anscombe$y4)
 
 ```
 
+Question: 
+
 Using the Anscombe’s Quartet as instructed in the header code, for four pairs of (x1,y1),(x2,y2),(x3,y3 ),(x4,y4)
 
-	a. Estimate and interpret the sample covariance and correlation.   
-	
-	b. Use four scatterplots to visually observe the data.
-	
-	c.	Using the first series of Anscombe’s quartet, choose the intercept and the slope of the line that visually best fits the data given in the scatter plot.
-	
-	d.	Using the data set calculate the predicted values for the outcome, residuals, and the sum of squared residuals. 
-	
-	
-	e.	Calculate the OLS estimators for the intercept and the slope using the formula.
-	
-	f.	Compare the sum of the squared residuals from the OLS estimators to the one that you used in part (b).
-	
-	g.	Interpret the estimated OLS coefficients.
-	
-	h.	Calculate and interpret the R-squared of the regression.   
+- a. Estimate and interpret the sample covariance and correlation.
+- b. Use four scatterplots to visually observe the data.
+- c.	Using the first series of Anscombe’s quartet, choose the intercept and the slope of the line that visually best fits the data given in the scatter plot.
+- d.	Using the data set calculate the predicted values for the outcome, residuals, and the sum of squared residuals.
+- e.	Calculate the OLS estimators for the intercept and the slope using the formula.
+- f.	Compare the sum of the squared residuals from the OLS estimators to the one that you used in part (b).
+- g.	Interpret the estimated OLS coefficients.
+- h.	Calculate and interpret the R-squared of the regression.   
